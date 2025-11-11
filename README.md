@@ -5,7 +5,7 @@ Minh-Truyen Do, Pa Pa Win Aung, Khoa Tran Dang Vo, Minsoo Park*, Seunghee Parkâˆ
 
 Jounal....
 
-Vol. ..., No. ..., pp. ..., Nov 2025, DOI:.....................
+Vol. ..., No. ..., pp. ..., ..., DOI:...
 
 This repository provides the implementation of the **FIRE-EVSim** framework a comprehensive and technically viable paradigm for generating high-fidelity synthetic fire data for EV charging stations using **Building Information Modeling (BIM)** and **Unreal Engine 5 (UE5)**.  
 It establishes a reproducible data pipeline optimized for **deep learning-based fire detection** using **YOLO11**.
@@ -163,8 +163,8 @@ If you use this dataset or framework, please cite:
   journal={................},
   volume={...},
   pages={...},
-  year={2025},
-  publisher={Elsevier}
+  year={...},
+  publisher={...}
 }
 ```
 

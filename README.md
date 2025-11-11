@@ -16,7 +16,7 @@ The expansion of electric vehicle (EV) charging infrastructure introduces unique
 ## 🔧 Frameworks and Modules  
 * **3D Simulation:** Unreal Engine 5  
 * **Deep Learning Framework:** PyTorch 2.2 (with CUDA 11.7)  
-* **Object Detection Model:** YOLOv11 [[alif2024yolov11]](https://github.com/ultralytics/YOLOv11)  
+* **Object Detection Model:** YOLOv11 [[alif2024yolov11]](https://github.com/ultralytics/ultralytics)  
 * **Data Augmentation:** Mosaic, Random Scaling, Horizontal Flipping, Brightness Adjustment  
 * **Optimization Algorithm:** Stochastic Gradient Descent (SGD)  
 * **Learning Scheduler:** Cosine Annealing with Warm-up  
@@ -73,9 +73,9 @@ MainFolder = "/your/custom/path"
 
 | # | Module | GitHub | Version / Commit | License |
 |------|------|--------|-------------|----------|
-| 1 | **Unreal Engine 5** – Simulation and rendering engine | [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) | 5.3+ | EULA |
+| 1 | **Unreal Engine 5** – Simulation and rendering engine | [EpicGames/UnrealEngine](https://www.unrealengine.com/en-US/unreal-engine-5) | 5.3+ | EULA |
 | 2 | **Autodesk Revit** – 3D modeling for EV station architecture | [Autodesk Revit](https://www.autodesk.com/products/revit/overview) | 2023+ | Proprietary |
-| 3 | **YOLOv11** – Object Detection Framework | [ultralytics/YOLOv11](https://github.com/ultralytics/YOLOv11) | v11.0 | GPL-3.0 |
+| 3 | **YOLOv11** – Object Detection Framework | [ultralytics/YOLOv11](https://github.com/ultralytics/ultralytics) | v11.0 | GPL-3.0 |
 | 4 | **Datasmith Exporter** – Revit to UE5 converter | [Datasmith](https://www.unrealengine.com/en-US/datasmith) | latest | EULA |
 | 5 | **Albumentations** – Data augmentation | [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) | 1.4+ | MIT |
 

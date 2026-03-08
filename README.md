@@ -3,11 +3,11 @@
 Minh-Truyen Do, Pa Pa Win Aung, Khoa Tran Dang Vo, Minsoo Park*, Seunghee Park∗,
 \* : Coressponding Authors
 
-Jounal....
+Developments in the Built Environment
 
-Vol. ..., No. ..., pp. ..., ..., DOI:...
+Vol. 26, pp. 100889, DOI: https://doi.org/10.1016/j.dibe.2026.100889
 
-This repository provides the implementation of the **FIRE-EVSim** framework a comprehensive and technically viable paradigm for generating high-fidelity synthetic fire data for EV charging stations using **Building Information Modeling (BIM)** and **Unreal Engine 5 (UE5)**.  
+This repository provides the implementation of the **FIRE-EVSim** framework, a comprehensive and technically viable paradigm for generating high-fidelity synthetic fire data for EV charging stations using **Building Information Modeling (BIM)** and **Unreal Engine 5 (UE5)**.  
 It establishes a reproducible data pipeline optimized for **deep learning-based fire detection** using **YOLO11**.
 
 ## Abstract
@@ -157,18 +157,27 @@ yolo train model=yolov11.pt data=data.yaml epochs=300 imgsz=640
 If you use this dataset or framework, please cite:
 
 ```bibtex
-@article{............,
-  title={FIRE-EVSim: A BIM and 3D Simulation-based Framework for Enhanced Early Fire Detection in Electric Vehicle Charging Infrastructure},
-  author={Do, Minh-Truyen and Aung, Pa Pa Win and Vo, Tran Dang Khoa and Park, Minsoo and Park, Seunghee},
-  journal={................},
-  volume={...},
-  pages={...},
-  year={...},
-  publisher={...}
+@article{do2026fire,
+  title={FIRE-EVSim: A BIM and 3D simulation-based framework for enhanced early fire detection in electric vehicle charging infrastructure},
+  author={Do, Minh-Truyen and Aung, Pa Pa Win and Vo, Khoa Tran Dang and Park, Minsoo and Park, Seunghee},
+  journal={Developments in the Built Environment},
+  pages={100889},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
 ---
+## 9. Dataset Download
+
+Due to GitHub storage limitations, the full **FIRE-EVSim synthetic fire dataset** is hosted externally.
+
+The dataset contains **10,000 images generated from 100 simulated EV fire scenarios** created using BIM-based modeling and Unreal Engine 5 rendering.
+
+### Download Link
+Dataset is available via **Microsoft OneDrive**:
+
+[![Dataset]([https://img.shields.io/badge/Dataset-OneDrive-blue](https://1drv.ms/f/c/c5a8c49867f477fc/IgB-e5tbHZnOTqkkgmnwE6MjAbpVkq-8ii7bA1TD-Lu6gSo?e=ReyfaK))](https://TruyenDo/FIRE-EVSim) 
 
 ## Contributors
 <p>

@@ -177,7 +177,7 @@ The dataset contains **10,000 images generated from 100 simulated EV fire scenar
 ### Download Link
 Dataset is available via **Microsoft OneDrive**:
 
-[![Dataset]([https://img.shields.io/badge/Dataset-OneDrive-blue](https://1drv.ms/f/c/c5a8c49867f477fc/IgB-e5tbHZnOTqkkgmnwE6MjAbpVkq-8ii7bA1TD-Lu6gSo?e=ReyfaK))](https://TruyenDo/FIRE-EVSim) 
+[FIRE-EVSim Dataset (OneDrive)](https://1drv.ms/f/c/c5a8c49867f477fc/IgB-e5tbHZnOTqkkgmnwE6MjAbpVkq-8ii7bA1TD-Lu6gSo?e=ReyfaK)
 
 ## Contributors
 <p>
